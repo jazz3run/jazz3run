@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Ezequiel. I´m frontend developer 👋
 
 <!--
 **jazz3run/jazz3run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
